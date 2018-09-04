@@ -1,0 +1,9 @@
+{
+	[
+		<SldScreen>      // Nombre de la seccion Selected Screen
+		<whatsamods> // Nombre del icono
+		<about>		 // Título de la sección
+		< > 		 // Sumario de la sección
+		<false>			 // Aplicar color a la imagen
+	]
+}

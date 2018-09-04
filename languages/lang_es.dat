@@ -1,0 +1,59 @@
+﻿// Español
+[splash0=Buscando actualizaciones..]
+[splash1=Descargando actualizaciones..]
+[splash2=Cargando recursos..]
+
+// Menu
+[menuNoticias=Noticias]
+[menuDescargas=Descargas]
+[menuXposed=Xposed]
+[menuAyuda=Ayuda]
+
+// Popup permisos
+[titleAtention=¡Atención!]
+[no_internet=Necesita conexión a Internet para poder usar la aplicación.]
+[PstMsg=Para un correcto funcionamiento de la aplicación, debes conceder permisos para escribir en la tarjeta de memoria.]
+[update=Se ha detectado una actualización de la aplicación. Para poder abrir la aplicación, es necesario actualizarla.\n\n ¿Desea comenzar la actualización?]
+[btnAccept=Aceptar]
+[btnCancel=Cancelar]
+
+// Popup About
+[ppAboutApp=WhatsaMods v]
+[ppAboutBuild=Aplicación realizada por:]
+[ppAboutDev=Krowne]
+[ppAboutCR=Desarrollo 2018]
+
+
+// Descargas de Mods
+[autor=Autor:]
+[packname=Package:]
+[vers=Versión:]
+[gbwhatsappplus=GBWhatsApp Plus]
+[gbwhatsapp=GBWhatsApp]
+[gbwhatsapp3=GBWhatsApp3]
+[yowhatsappplusC=YoWhatsApp Plus (Con Emojis)]
+[yowhatsappC=YoWhatsApp (Con Emojis)]
+[yowhatsapp2C=YoWhatsApp2 (Con Emojis)]
+[yowhatsappplus=YoWhatsApp Plus (Sin Emojis)]
+[yowhatsapp=YoWhatsApp (Sin Emojis)]
+[yowhatsapp2=YoWhatsApp2 (Sin Emojis)]
+
+// Xposed
+[xposed_status_cat=Módulo Xposed]
+[xposed_status_tt1=Estado del módulo]
+
+[xposed_publi_cat=Publicidad]
+[xposed_quit_pub_tt1=Quitar publicidad]
+[xposed_quit_pub_st1=Se quitará y reemplazará la publicidad, por el estado del módulo.]
+
+[xposed_tradu_cat=Traducciones]
+[xposed_tr_gb_tt1=Traducir GBWhatsApp.]
+[xposed_tr_gb_st1=Se traducirán los textos de cualquier versión de GBWhatsApp.]
+
+[xposed_privac_cat=Privacidad]
+[xposed_hid_lcn_tt1=Ocultar última conexión]
+[xposed_hid_lcn_st1=Ocultarás tu última conexión, pero podrás ver la última conexión de tus contactos.]
+
+
+//Ayuda
+[about=Acerca de..]

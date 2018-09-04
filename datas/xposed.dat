@@ -1,0 +1,52 @@
+{
+	[
+		<Category>
+		<xposed_status_cat>
+	]
+	[
+		<Switch>
+		<xposed_status_tt1>
+		< >
+		<xps_status>
+		<0>
+	]
+}
+{
+	[
+		<Category>
+		<xposed_publi_cat>
+	]
+	[
+		<Switch>
+		<xposed_quit_pub_tt1>
+		<xposed_quit_pub_st1>
+		<xps_quit_pub>
+		<0>
+	]
+}
+{
+	[
+		<Category>
+		<xposed_tradu_cat>
+	]
+	[
+		<Switch>
+		<xposed_tr_gb_tt1>
+		<xposed_tr_gb_st1>
+		<xps_tr_gb>
+		<0>
+	]
+}
+{
+	[
+		<Category>
+		<xposed_hid_lcn_tt1>
+	]
+	[
+		<Switch>
+		<xposed_hid_lcn_tt1>
+		<xposed_hid_lcn_st1>
+		<xps_hid_lcn>
+		<0>
+	]
+}
