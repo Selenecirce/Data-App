@@ -1,30 +1,30 @@
-﻿// Versiones de idiomas
+// Versiones de idiomas
 {
 	[lang=es]
-	[version=0.0.0.21]
+	[version=0.0.0.1]
 	[url=languages/lang_es.dat]
 }
 
 // Iconos
 {
-	[ic_internal=0.0.0.2] // Valor de actualización
+	[ic_internal=0.0.0.1] // Valor de actualización
 	[strc=1.0.1] // Valor de la versión de WhatsaMods
 	[url=icons/icons.dat]
 }
 
 // Descarga de Mods
 {
-	[data1=0.0.0.3] // Valor de actualización
+	[data1=0.0.0.1] // Valor de actualización
 	[strc=1.0.1] // Valor de la versión de WhatsaMods
 	[url=datas/download_mods.dat]
 }
 {
-	[data2=0.0.0.3] // Valor de actualización
+	[data2=0.0.0.1] // Valor de actualización
 	[strc=1.0.1] // Valor de la versión de WhatsaMods
 	[url=datas/xposed.dat]
 }
 {
-	[data3=0.0.0.3] // Valor de actualización
+	[data3=0.0.0.1] // Valor de actualización
 	[strc=1.0.1] // Valor de la versión de WhatsaMods
 	[url=datas/help.dat]
 }
