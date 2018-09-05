@@ -14,17 +14,17 @@
 
 // Descarga de Mods
 {
-	[data1=0.0.0.2] // Valor de actualización
+	[data1=0.0.0.3] // Valor de actualización
 	[strc=1.0.1] // Valor de la versión de WhatsaMods
 	[url=datas/download_mods.dat]
 }
 {
-	[data2=0.0.0.2] // Valor de actualización
+	[data2=0.0.0.3] // Valor de actualización
 	[strc=1.0.1] // Valor de la versión de WhatsaMods
 	[url=datas/xposed.dat]
 }
 {
-	[data3=0.0.0.2] // Valor de actualización
+	[data3=0.0.0.3] // Valor de actualización
 	[strc=1.0.1] // Valor de la versión de WhatsaMods
 	[url=datas/help.dat]
 }
