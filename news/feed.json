@@ -1,18 +1,10 @@
 {
     "feed": [
-		{
-			"id": 2,
-			"name": "Krowne",
-			"image": "",
-			"status": "Probando carácteres especiales: á Á é É í Í ó Ó ú Ú ñ Ñ",
-			"timeStamp": "05-09-2018 11:17",
-			"url": ""
-		},
 	        {
 			"id": 1,
 			"name": "yonijuerga",
 			"image": "",
-			"status": "probando, u, o, u o",
+			"status": "Bienvenido, ¡Estrenamos app! Aquí encontrarás las actualizaciones para los distintos Mods  más populares, con las versiones aptas para tu móvil.<br><br>Esperamos que podamos disfrutar juntos de esta nueva experiencia, con noticias de interés, novedades, sorpresas, y sobre todo, con mucho apoyo de la comunidad.",
 			"timeStamp": "05-09-2018 11:10",
 			"url": ""
 		}
