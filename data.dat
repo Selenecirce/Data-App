@@ -7,7 +7,7 @@
 
 // Iconos
 {
-	[ic_internal=0.0.0.1] // Valor de actualización
+	[ic_internal=0.0.0.2] // Valor de actualización
 	[strc=1.0.1] // Valor de la versión de WhatsaMods
 	[url=icons/icons.dat]
 }
