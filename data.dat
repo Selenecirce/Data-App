@@ -12,17 +12,19 @@
 	[url=icons/icons.dat]
 }
 
-// Descarga de Mods
+// Sección de descarga de Mods
 {
 	[data1=0.0.0.1] // Valor de actualización
 	[strc=1.0.1] // Valor de la versión de WhatsaMods
 	[url=datas/download_mods.dat]
 }
+// Sección Xposed
 {
 	[data2=0.0.0.1] // Valor de actualización
 	[strc=1.0.1] // Valor de la versión de WhatsaMods
 	[url=datas/xposed.dat]
 }
+// Sección Ayuda
 {
 	[data3=0.0.0.1] // Valor de actualización
 	[strc=1.0.1] // Valor de la versión de WhatsaMods
