@@ -54,6 +54,9 @@
 [xposed_hid_lcn_tt1=Ocultar última conexión]
 [xposed_hid_lcn_st1=Ocultarás tu última conexión, pero podrás ver la última conexión de tus contactos.]
 
+[xposed_toast_cat=Toast]
+[xposed_hid_lcn_tt1=Mostrar Activity]
+[xposed_hid_lcn_st1=Mostrar la Activity actual mediante un Toast.]
 
 //Ayuda
 [about=Acerca de..]
