@@ -1,5 +1,13 @@
 {
     "feed": [
+    	        {
+			"id": 3,
+			"name": "Krowne",
+			"image": "",
+			"status": "Las descargas de Gonga han sido desactivadas de momento por un error de traducción. Lo estamos investigando, perdón por las molestias.",
+			"timeStamp": "07-09-2018 08:32",
+			"url": ""
+		},
 	        {
 			"id": 2,
 			"name": "Gonga",
