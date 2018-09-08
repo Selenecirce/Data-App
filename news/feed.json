@@ -3,8 +3,10 @@
 	    	{
 			"id": 4,
 			"name": "Krowne",
+			"image": "",
 			"status": "Se ha realizado una actualización de emergencia, debido a un error en la actualización de la versión 1.0.2.8, que no permitía la instalación de las aplicaciones descargadas. También se han corregido un error de la sección de Descargas, donde algunos Package Names no correspondían con la descarga.<br><br>Perdón por las molestias ocasionadas.",
 			"timeStamp": "08-09-2018 22:38",
+			"url": ""
 		},
 	    	{
 			"id": 3,
@@ -12,18 +14,23 @@
 			"image": "https://raw.githubusercontent.com/WhatsaMods/Data-App/master/news/new_update.png",
 			"status": "Empezamos con la primera actualización de la aplicación.<br><br>Los cambios son los siguientes:<br><br>- Añadida una opción en Xposed, para ver el nombre de la Activity de la ventana actual.<br>- Corregido un error en las opciones de Xposed, que mostraba error de privacidad al entrar en algunas conversaciones.<br>- Corregidos otros errores.<br><br>Estas son las correcciones y algunas de las novedades de la aplicación. En próximas versiones, añadiremos más opciones que esperamos que os gusten si no a todos/as, sí a la mayoría.",
 			"timeStamp": "08-09-2018 02:03",
+			"url": ""
 		},
 	        {
 			"id": 2,
 			"name": "Gonga",
+			"image": "",
 			"status": "¡Hola a todos!<br><br>Bienvenidos al estreno de la aplicación del grupo.<br><br>Como sabéis hace unos días dije que iba a dejar de traducir los MODs de GBWhatsApp.<br><br>Pues tengo noticias frescas, de momento voy a seguir haciéndolo.<br><br>Los que les gusta mi MOD, ahora lo tenéis disponible desde la sección de descargas, con todas las traducciones en español.",
 			"timeStamp": "07-09-2018 01:34",
+			"url": ""
 		},
 	        {
 			"id": 1,
 			"name": "yonijuerga",
+			"image": "",
 			"status": "Bienvenido, ¡Estrenamos app!<br><br>Aquí encontrarás las actualizaciones para los distintos Mods más populares, con las versiones aptas para tu móvil.<br><br>Esperamos que podamos disfrutar juntos de esta nueva experiencia, con noticias de interés, novedades, sorpresas, y sobre todo, con mucho apoyo de la comunidad.",
 			"timeStamp": "06-09-2018 15:30",
+			"url": ""
 		}
     ]
 }
