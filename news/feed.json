@@ -4,7 +4,7 @@
 			"id": 3,
 			"name": "Krowne",
 			"image": "https://raw.githubusercontent.com/WhatsaMods/Data-App/master/news/new_update.png",
-			"status": "Empezamos con la primera actualización de la aplicación.<br><br>Los cambios son los siguientes:<br>- Añadida una opción en Xposed, para ver el nombre de la Activity de la ventana actual.<br>- Corregido un error en las opciones de Xposed, que mostraba error de privacidad al entrar en algunas conversaciones.<br>- Corregidos otros errores.<br><br>Estas son las correcciones y algunas de las novedades de la aplicación. En próximas versiones, añadiremos más opciones que esperamos que os gusten si no a todos/as, sí a la mayoría.",
+			"status": "Empezamos con la primera actualización de la aplicación.<br><br>Los cambios son los siguientes:<br><br>- Añadida una opción en Xposed, para ver el nombre de la Activity de la ventana actual.<br>- Corregido un error en las opciones de Xposed, que mostraba error de privacidad al entrar en algunas conversaciones.<br>- Corregidos otros errores.<br><br>Estas son las correcciones y algunas de las novedades de la aplicación. En próximas versiones, añadiremos más opciones que esperamos que os gusten si no a todos/as, sí a la mayoría.",
 			"timeStamp": "08-09-2018 02:03",
 			"url": ""
 		},
