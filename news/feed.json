@@ -1,6 +1,14 @@
 {
     "feed": [
 	    	{
+			"id": 5,
+			"name": "Krowne",
+			"image": "https://img.xda-cdn.com/IpjJpBNidDVxuX2h-ijm9nT-v5U=/http%3A%2F%2Fi.imgur.com%2F6EjA7z1.jpg",
+			"status": "Ya tenéis disponible desde el repositorio de Xposed, la última actualización de KMod FWA. <br><br>Para los que no sabéis que de que se trata, KMod FWA es un módulo Xposed, que permite cambiar la apariencia de WhatsApp, añadir opciones de privacidad, y mucho más. <br><br>Tenemos Mods como GBWhatsApp y YoWhatsApp que hacen lo mismo, pero con este módulo Xposed, tendrás  una gran diferencia, porque podrás tener WhatsApp oficial instalado, ¡y siempre con la última versión!<br><br>Esta última actualización incorpora los siguientes cambios:<br>- Añadida la opción para personalizar la fuente de la interfaz.<br>- Añadida la opción para deshabilitar todas las pestañas (excepto la de los chats).<br>- Ahora no se mostrará una advertencia cuando se haya eliminado un mensaje.<br>- Arreglada la opción para evitar la eliminación de mensajes (no funcionaba correctamente en algunos dispositivos).<br>- Arreglada la opción de privacidad, ocultar la grabación de audio y escritura.<br>- Arreglado el botón de los TABs, ahora muestra correctamente el botón de acuerdo con la sección.<br>- Correcciones de errores.<br><br>Recordar que este módulo solo sirve para los que sois root y tenéis activo Xposed.",
+			"timeStamp": "09-09-2018 18:57",
+			"url": ""
+		},
+	    	{
 			"id": 4,
 			"name": "Krowne",
 			"image": "",
