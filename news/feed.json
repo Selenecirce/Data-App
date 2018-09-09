@@ -1,0 +1,44 @@
+{
+    "feed": [
+	    	{
+			"id": 5,
+			"name": "Krowne",
+			"image": "https://img.xda-cdn.com/IpjJpBNidDVxuX2h-ijm9nT-v5U=/http%3A%2F%2Fi.imgur.com%2F6EjA7z1.jpg",
+			"status": "Ya tenéis disponible desde el repositorio de Xposed, la última actualización de KMod FWA. <br><br>Para los que no sabéis que de que se trata, KMod FWA es un módulo Xposed, que permite cambiar la apariencia de WhatsApp, añadir opciones de privacidad, y mucho más. <br><br>Tenemos Mods como GBWhatsApp y YoWhatsApp que hacen lo mismo, pero con este módulo Xposed, tendrás  una gran diferencia, porque podrás tener WhatsApp oficial instalado, ¡y siempre con la última versión!<br><br>Esta última actualización incorpora los siguientes cambios:<br>- Añadida la opción para personalizar la fuente de la interfaz.<br>- Añadida la opción para deshabilitar todas las pestañas (excepto la de los chats).<br>- Ahora no se mostrará una advertencia cuando se haya eliminado un mensaje.<br>- Arreglada la opción para evitar la eliminación de mensajes (no funcionaba correctamente en algunos dispositivos).<br>- Arreglada la opción de privacidad, ocultar la grabación de audio y escritura.<br>- Arreglado el botón de los TABs, ahora muestra correctamente el botón de acuerdo con la sección.<br>- Correcciones de errores.<br><br>Recordar que este módulo solo sirve para los que sois root y tenéis activo Xposed.",
+			"timeStamp": "09-09-2018 18:57",
+			"url": "http://repo.xposed.info/module/kmod.xposed"
+		},
+	    	{
+			"id": 4,
+			"name": "Krowne",
+			"image": "",
+			"status": "Se ha realizado una actualización de emergencia, debido a un error en la actualización de la versión 1.0.2.8, que no permitía la instalación de las aplicaciones descargadas. También se han corregido un error de la sección de Descargas, donde algunos Package Names no correspondían con la descarga.<br><br>Perdón por las molestias ocasionadas.",
+			"timeStamp": "08-09-2018 22:38",
+			"url": ""
+		},
+	    	{
+			"id": 3,
+			"name": "Krowne",
+			"image": "https://raw.githubusercontent.com/WhatsaMods/Data-App/master/news/new_update.png",
+			"status": "Empezamos con la primera actualización de la aplicación.<br><br>Los cambios son los siguientes:<br><br>- Añadida una opción en Xposed, para ver el nombre de la Activity de la ventana actual.<br>- Corregido un error en las opciones de Xposed, que mostraba error de privacidad al entrar en algunas conversaciones.<br>- Corregidos otros errores.<br><br>Estas son las correcciones y algunas de las novedades de la aplicación. En próximas versiones, añadiremos más opciones que esperamos que os gusten si no a todos/as, sí a la mayoría.",
+			"timeStamp": "08-09-2018 02:03",
+			"url": ""
+		},
+	        {
+			"id": 2,
+			"name": "Gonga",
+			"image": "",
+			"status": "¡Hola a todos!<br><br>Bienvenidos al estreno de la aplicación del grupo.<br><br>Como sabéis hace unos días dije que iba a dejar de traducir los MODs de GBWhatsApp.<br><br>Pues tengo noticias frescas, de momento voy a seguir haciéndolo.<br><br>Los que les gusta mi MOD, ahora lo tenéis disponible desde la sección de descargas, con todas las traducciones en español.",
+			"timeStamp": "07-09-2018 01:34",
+			"url": ""
+		},
+	        {
+			"id": 1,
+			"name": "yonijuerga",
+			"image": "",
+			"status": "Bienvenido, ¡Estrenamos app!<br><br>Aquí encontrarás las actualizaciones para los distintos Mods más populares, con las versiones aptas para tu móvil.<br><br>Esperamos que podamos disfrutar juntos de esta nueva experiencia, con noticias de interés, novedades, sorpresas, y sobre todo, con mucho apoyo de la comunidad.",
+			"timeStamp": "06-09-2018 15:30",
+			"url": ""
+		}
+    ]
+}
