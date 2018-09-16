@@ -4,7 +4,7 @@
 			"id": 7,
 			"name": "Krowne",
 			"image": "https://img.xda-cdn.com/IpjJpBNidDVxuX2h-ijm9nT-v5U=/http%3A%2F%2Fi.imgur.com%2F6EjA7z1.jpg",
-			"status": "Nueva actualización de KMod FWA disponible desde el resositorio de Xposed.<br><br>Lista cambios:<br>- Añadida una sección para colorear el fondo de las celdas del estado, en la lista de estado.<br>- Optimización del código, de forma que carga más rapidas las actualizaciones.<br>- Eliminada opción siempre en línea, por el momento no es posible.<br>- Arreglada la opción para evitar la eliminación de mensajes.<br>- Arreglada la opción de privacidad, ocultar la grabación de audio y escritura.<br>- Arreglados iconos de la lista de llamadas.<br>- Arreglados otros errores.<br><br>Recordar que este módulo solo sirve para los que sois root y tenéis activo Xposed.",
+			"status": "Nueva actualización de KMod FWA v2.7.2, disponible desde el resositorio de Xposed.<br><br>Lista cambios:<br>- Añadida una sección para colorear el fondo de las celdas del estado, en la lista de estado.<br>- Optimización del código, de forma que carga más rapidas las actualizaciones.<br>- Eliminada opción siempre en línea, por el momento no es posible.<br>- Arreglada la opción para evitar la eliminación de mensajes.<br>- Arreglada la opción de privacidad, ocultar la grabación de audio y escritura.<br>- Arreglados iconos de la lista de llamadas.<br>- Arreglados otros errores.<br><br>Recordar que este módulo solo sirve para los que sois root y tenéis activo Xposed.",
 			"timeStamp": "16-09-2018 02:18",
 			"url": "http://repo.xposed.info/module/kmod.xposed"
 		},
