@@ -5,6 +5,6 @@
 		<about>		 // Título de la sección
 		< > 		 // Sumario de la sección
 		<false>			 // Aplicar color a la imagen
-		<changelog>
+		<about>			// Nombre del archivo para abrir en la activity
 	]
 }
