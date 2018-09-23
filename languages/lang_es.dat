@@ -9,6 +9,9 @@
 [menuXposed=Xposed]
 [menuAyuda=Ayuda]
 
+// Toast
+[NoActivity=No hay acciones disponibles.]
+
 // Popup permisos
 [titleAtention=¡Atención!]
 [no_internet=Necesita conexión a Internet para poder usar la aplicación.]
@@ -59,4 +62,29 @@
 [xposed_tst_act_st1=Mostrar la Activity actual mediante un Toast.]
 
 //Ayuda
+[changelog=Lista de cambios]
 [about=Acerca de..]
+
+// Changelog
+
+[v1.0.4-title=Versión 1.0.4.0]
+[v1.0.4-date=20 Sep. 2018]
+[v1.0.4a=Añadida sección lista de cambios.]
+[v1.0.4b=Correción de errores.]
+
+[v1.0.3-title=Versión 1.0.3.2]
+[v1.0.3-date=12 Sep. 2018]
+[v1.0.3a=Correción de errores.]
+
+[v1.0.2-title=Versión 1.0.2.8]
+[v1.0.2-date=8 Sep. 2018]
+[v1.0.2a=Correción de la sección de Descargas, no permitia instalar las aplicaciones en algunos dispositivos.]
+
+[v1.0.1-title=Versión 1.0.1.207]
+[v1.0.1-date=6 Sep. 2018]
+[v1.0.1a=Sección de noticias.]
+[v1.0.1b=Sección de descarga de MODs.]
+
+[v1.0.0-title=Versión 1.0.0.0]
+[v1.0.0-date=28 Ago. 2018]
+[v1.0.0a=Modulo Xposed para traducir GBWhatsApp.]
