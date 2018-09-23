@@ -1,4 +1,4 @@
-﻿// Español
+// Español
 [splash0=Buscando actualizaciones..]
 [splash1=Descargando actualizaciones..]
 [splash2=Cargando recursos..]
@@ -67,10 +67,11 @@
 
 // Changelog
 
-[v1.0.4-title=Versión 1.0.4.0]
-[v1.0.4-date=20 Sep. 2018]
-[v1.0.4a=Añadida sección lista de cambios.]
-[v1.0.4b=Correción de errores.]
+[v1.0.4-title=Versión 1.0.4.137]
+[v1.0.4-date=23 Sep. 2018]
+[v1.0.4a=Añadidos títulos a las noticias.]
+[v1.0.4b=Añadida sección lista de cambios.]
+[v1.0.4c=Correción de errores.]
 
 [v1.0.3-title=Versión 1.0.3.2]
 [v1.0.3-date=12 Sep. 2018]
