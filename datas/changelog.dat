@@ -14,8 +14,13 @@
 	]
 	[
 		<viewLog> // Nombre de la seccion Selected Screen
-		<log-fix>   // Sumario de la sección
+		<log-new>   // Sumario de la sección
 		<v1.0.4b>   // Sumario de la sección
+	]
+	[
+		<viewLog> // Nombre de la seccion Selected Screen
+		<log-fix>   // Sumario de la sección
+		<v1.0.4c>   // Sumario de la sección
 	]
 }
 {
