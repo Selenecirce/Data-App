@@ -1,6 +1,15 @@
 {
 	"feed": [
 	    {
+			"id": 9,
+			"name": "Krowne",
+			"image": "https://www.lavanguardia.com/r/GODO/LV/p5/WebSite/2018/08/30/Recortada/_20180720065815-k8fF-U451541335678RTH-992x558@LaVanguardia-Web.jpg",
+			"title": "WhatsApp debilita su seguridad",
+			"status": "WhatsApp siempre ha protegido todos y cada uno de los mensajes que se envían a través de la aplicación con un cifrado de “extremo a extremo”. Esto significa que todos los mensajes permanecen seguros y únicamente pueden ser leídos por la gente que los envía o los recibe.<br><br>Pero, ahora, la compañía ha añadido copias de seguridad gratuitas, proporcionadas por Google, que rompen con esta seguridad.<br><br>Leer más..",
+			"timeStamp": "23-09-2018 23:09",
+			"url": "https://www.lavanguardia.com/tecnologia/20180831/451541335678/whatsapp-seguridad-google-drive-redes-sociales-tecnologia-portada.html"
+		},
+		{
 			"id": 8,
 			"name": "yonijuerga",
 			"image": "",
@@ -9,7 +18,7 @@
 			"timeStamp": "20-09-2018 17:40",
 			"url": ""
 		}, 
-	    {
+	    	{
 			"id": 7,
 			"name": "Krowne",
 			"image": "https://img.xda-cdn.com/IpjJpBNidDVxuX2h-ijm9nT-v5U=/http%3A%2F%2Fi.imgur.com%2F6EjA7z1.jpg",
@@ -23,7 +32,7 @@
 			"name": "Gonga",
 			"image": "https://www.eltiempo.com/files/article_main/uploads/2018/05/01/5ae8e1513b31a.jpeg",
 			"title": "WhatsApp comenzará a mostrar publicidad en 2019",
-			"status": "Lo hará mediante su función de Estados, según un informe de The Wall Street Journal.<br><br>leer más...",
+			"status": "Lo hará mediante su función de Estados, según un informe de The Wall Street Journal.<br><br>Leer más...",
 			"timeStamp": "14-09-2018 18:17",
 			"url": "https://www.eltiempo.com/tecnosfera/novedades-tecnologia/whatsapp-mostrara-publicidad-en-2019-255216"
 		}, 
