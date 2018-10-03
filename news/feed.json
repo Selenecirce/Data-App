@@ -1,6 +1,15 @@
 {
 	"feed": [
 		{
+			"id": 12,
+			"name": "Leku",
+			"image": "https://cdn.20m.es/img2/recortes/2018/08/16/764651-600-338.jpg?v=20180816191705",
+			"title": "Facebook podría leer tus mensajes de WhatsApp",
+			"status": "La privacidad en WhatsApp vuelve a estar en entredicho.<br><br>Es uno de los puntos fuertes de este sistema de mensajería desde la introducción del cifrado de extremo a extremo, pero eso podría cambiar.<br><br>Pero, en efecto, con la llegada de publicidad en 2019, Facebook podría leer los mensajes entre usuarios, algo que daría un vuelco al tema de la privacidad..<br><br>Leer más..",
+			"timeStamp": "03-10-2018 19:38",
+			"url": "https://www.20minutos.es/noticia/3455114/0/facebook-podria-leer-mensajes-whatsapp/"
+		},
+		{
 			"id": 11,
 			"name": "Krowne",
 			"image": "https://www.abc.es/media/tecnologia/2018/10/01/whataspp-kkWB--620x349@abc.jpg",
