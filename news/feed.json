@@ -1,6 +1,15 @@
 {
 	"feed": [
 		{
+			"id": 13,
+			"name": "Krowne",
+			"image": "https://www.abc.es/media/tecnologia/2018/10/04/hwatapp-ky2--620x349@abc.jpg",
+			"title": "Chatear mientras ves vídeos flotantes",
+			"status": "Se trata de una opción llamada «picture in picture» que ya está presente en los dispositivos iOS pero que llegará pronto a los móviles con el sistema operativo Android<br><br>Aunque es una función menor, WhatsApp prepara, tras varios meses de pruebas, la posibilidad de mandar mensajes mientras se reproduce un video en una ventana flotante. Se trata de una opción llamada «picture in picture» (PiP) que poco a poco se va extendiendo..<br><br>Leer más..",
+			"timeStamp": "05-10-2018 01:47",
+			"url": "https://www.abc.es/tecnologia/moviles/aplicaciones/abci-whatsapp-cerca-incorporar-interesante-funcion-chatear-mientras-videos-flotantes-201810041107_noticia.html"
+		},
+		{
 			"id": 12,
 			"name": "Leku",
 			"image": "https://cdn.20m.es/img2/recortes/2018/08/16/764651-600-338.jpg?v=20180816191705",
